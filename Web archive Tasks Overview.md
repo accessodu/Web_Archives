@@ -11,16 +11,17 @@
 
 ## Web Archive Tasks Overview
 
+
 | Archive          | Tasks                                                                                                              |
 |------------------|--------------------------------------------------------------------------------------------------------------------|
-| **Wayback Machine** | Retrieve the archived snapshot of the Yahoo homepage from January 1, 2018.                                     |
-|                  | After obtaining the Yahoo snapshot, access the snapshot of the Wikipedia homepage for a different specific date. |
-| **UK Web Archive**   | Find the product page information of an item that trended on Amazon in September 2019.                          |
-|                  | After retrieving the Amazon product page, access the Google homepage snapshot from March 15th, 2005.               |
-| **Trove**           | Access a sports-related newspaper from April 15, 2005.                                                          |
-|                  | After viewing the sports newspaper, locate a snapshot related to weather in 1990.                                  |
-| **Pandora**         | Obtain information about the "www.environment.gov.au" website in 2009.                                          |
-|                  | After retrieving this information, access the www.scew.gov.au homepage snapshot from 2012.                         |
-| **Archive.today**    | Retrieve Spotify playlist compilations or song suggestions from January 1, 2020.                                |
-|                  | After obtaining the Spotify playlist information, access the YouTube homepage snapshot from April 15th, 2009.      |
+| **Archive.today** | 1. Start from [Archive.today](https://archive.ph/). Retrieve the snapshot of the Yahoo homepage from January 1, 2018. |
+|                  | 2. After obtaining the Yahoo snapshot, find and open the Yahoo homepage snapshot for a different specified date. |
+| **Trove**         | 1. Start from [Trove](https://trove.nla.gov.au/). Access a sports-related newspaper from April 15, 2005.            |
+|                  | 2. After viewing the sports newspaper, find and open the same sports newspaper snapshot for a different specified date. |
+| **Pandora**       | 1. Start from [Pandora](http://pandora.nla.gov.au/). Obtain information about the "www.environment.gov.au" website in 2009. |
+|                  | 2. After retrieving this information, find and open the "www.environment.gov.au" website snapshot for a different specified date. |
+| **UK Web Archive**| 1. Start from [UK Web Archive](https://www.webarchive.org.uk/). Find the product page information of an item that trended on Amazon in September 2019. |
+|                  | 2. After retrieving the Amazon product page, find and open the same product page snapshot for a different specified date. |
+| **Wayback Machine** | 1. Start from [Wayback Machine](https://web.archive.org/). Retrieve the snapshot of the Yahoo homepage from January 1, 2018. |
+|                  | 2. After obtaining the Yahoo snapshot, find and open the Yahoo homepage snapshot for a different specified date. |
 

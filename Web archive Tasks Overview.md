@@ -20,8 +20,8 @@
 |                  | 2. After viewing the sports newspaper, find and open the same sports newspaper snapshot for a different specified date. |
 | **Pandora**       | 1. Start from [Pandora](http://pandora.nla.gov.au/). Obtain information about the "www.environment.gov.au" website in 2009. |
 |                  | 2. After retrieving this information, find and open the "www.environment.gov.au" website snapshot for a different specified date. |
-| **UK Web Archive**| 1. Start from [UK Web Archive](https://www.webarchive.org.uk/). Find the product page information of an item that trended on Amazon in September 2019. |
-|                  | 2. After retrieving the Amazon product page, find and open the same product page snapshot for a different specified date. |
+| **UK Web Archive**| 1. Start from [UK Web Archive](https://www.webarchive.org.uk/). Find the snapshot of the BBC homepage from January 1, 2018. |
+|                  | 2. After retrieving the BBC homepage snapshot, find and open the BBC homepage snapshot for a different specified date. |
 | **Wayback Machine** | 1. Start from [Wayback Machine](https://web.archive.org/). Retrieve the snapshot of the Yahoo homepage from January 1, 2018. |
 |                  | 2. After obtaining the Yahoo snapshot, find and open the Yahoo homepage snapshot for a different specified date. |
 
